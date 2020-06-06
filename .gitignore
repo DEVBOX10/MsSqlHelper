@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/MsSqlHelper/v16/.suo
+/DbLib/bin/Debug
+/DbLib/obj/Debug
+/packages/DumpExtensions.2.0.0
+/MsSqlDbLib/bin/Debug
+/MsSqlDbLib/obj
